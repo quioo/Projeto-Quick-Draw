@@ -1,5 +1,5 @@
 # Projeto-Quick-Draw
- Nosso projeto foi pensado para reconhecer alguns desnhos feitos por algum usuário em um site, enviá-lo para uma Inteligência Artificial Reconhecer e devolver uma resposta. Fizemos um banco de dados com imagens dos seguintes objetos: maça, banana, faca, machado e bolo. Usamos um TensorFlow para reconhecimento dos desenhos em formato PNG, armazenados na pasta 'downloads' do computador, localmente portanto. 
+ Nosso projeto foi pensado para reconhecer alguns desenhos feitos por algum usuário em um site, enviá-lo para uma Inteligência Artificial Reconhecer e devolver uma resposta. Fizemos um banco de dados com imagens dos seguintes objetos: maça, banana, faca, machado e bolo. Usamos um TensorFlow para reconhecimento dos desenhos em formato PNG, armazenados na pasta 'downloads' do computador, localmente portanto. 
  Quanto as linguagens de programação, python, HTML, CSS e JavaScript foram ultilizadas.
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Passo a Passo para rodar o projeto:
